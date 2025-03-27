@@ -1,16 +1,9 @@
 # meshop
 
-A meshop project for me.
+Meshop for ui-learning with flutter & dart will also put in some functionality maybe connect a firebase db to it aswell.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project run it via web. But do not forget to get the pub packages cause i have device_preview installed and it is an "iphone simulator" and then run it on web (chrome) or other engines.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://pub.dev/packages/device_preview
