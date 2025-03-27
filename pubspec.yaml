@@ -1,0 +1,28 @@
+name: meshop
+description: "A meshop project for me."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  device_preview: ^1.1.0  # Changed from 1.2.0 to 1.1.0
+  cupertino_icons: ^1.0.6
+  flutter_svg: ^2.0.10+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/hello-hand.svg
+    - assets/images/avatar2.svg
+    - assets/images/mountains.svg
+    - assets/images/filter.svg
